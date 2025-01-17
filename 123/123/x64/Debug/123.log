@@ -1,0 +1,16 @@
+﻿  123.cpp
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(53,20): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(66,22): warning C4267: =: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(66,22): warning C4267:         with
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(66,22): warning C4267:         [
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(66,22): warning C4267:             _Ty=unsigned int
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(66,22): warning C4267:         ]
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(169,22): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(195,22): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(249,22): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(298,16): warning C4267: =: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(298,16): warning C4267:         with
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(298,16): warning C4267:         [
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(298,16): warning C4267:             _Ty=unsigned int
+C:\Users\TylerDergal\source\repos\123\123\123.cpp(298,16): warning C4267:         ]
+  123.vcxproj -> C:\Users\TylerDergal\source\repos\123\x64\Debug\123.exe
